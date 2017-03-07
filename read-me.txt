@@ -1,0 +1,33 @@
+********************
+Author: Dejun Xie
+StudentID:826419
+********************
+-----------------------------------------------------------
+///////////* Prototype Web Pages Part 1 *///////////
+File Include: OrderPage.php & InsertValue.php
+
+OrderPage.php: Used on a trial basis by staff taking orders from customer over the phone.
+http://info20003.cis.unimelb.edu.au/dejunx/OrderPage.php
+
+InserValue.php: This file gets parameters from OrderPgae.php and uses these as inputs to the database.
+http://info20003.cis.unimelb.edu.au/dejunx/InsertValue.php
+
+------------------------------------------------------------
+///////////* Prototype Web Pages Part 2 *///////////
+File Include:BrowsePage.php & SearchValue & spatuladetail
+
+BrowsePage.php: This file is to show a search box that allow user to search products.
+http://info20003.cis.unimelb.edu.au/dejunx/BrowsePage.php
+
+SearchValue.php: This file is to gets the parameters from users' search and select results from the database.
+http://info20003.cis.unimelb.edu.au/dejunx/SearchValue.php
+
+spatuladetail.php: This file is the hyper link which contains all the deatail of each products in the search results.
+http://info20003.cis.unimelb.edu.au/dejunx/spatuladetail.php
+
+
+
+
+
+
+
